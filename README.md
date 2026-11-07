@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f3a,55:1f6feb,100:7c3aed&height=210&section=header&text=Hey%2C%20I'm%20Anish%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=I%20love%20problem%20solving%2C%20and%20turning%20the%20answers%20into%20AI%20people%20actually%20use.&descAlignY=58&descSize=17&animation=fadeIn" />
+  <img alt="Anish Grover, AI/ML Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f3a,55:1f6feb,100:7c3aed&height=210&section=header&text=Hey%2C%20I'm%20Anish%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=I%20love%20problem%20solving%2C%20and%20turning%20the%20answers%20into%20AI%20people%20actually%20use.&descAlignY=58&descSize=17&animation=fadeIn" />
 </p>
 
 <h3 align="center">🧩 I love problem solving. Give me a messy, real-world problem and I'll build the system that makes it boring.</h3>
@@ -18,7 +18,7 @@
 
 ## 👋 A little about me
 
-I'm an **electronics engineer who ended up building AI agents**. I study ECE at **Thapar Institute** (Class of 2028), and most of my time goes into one question: *what's the actual problem here, and what's the smallest system that makes it go away?*
+I'm **Anish Grover**, an **electronics engineer who ended up building AI agents**. I study ECE at **Thapar Institute** (Class of 2028), and most of my time goes into one question: *what's the actual problem here, and what's the smallest system that makes it go away?*
 
 That question has taken me to stroke-recovery monitoring, hiring fairness, banking security, real-estate sales and the CRM at **Pepsi India**. I've also done **five internships** and come **2nd out of 39,000+** in Samsung Solve for Tomorrow 2026.
 
