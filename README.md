@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f3a,55:1f6feb,100:7c3aed&height=210&section=header&text=Hey%2C%20I'm%20Anish%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=I%20love%20problem%20solving%20%E2%80%94%20and%20turning%20the%20answers%20into%20AI%20people%20actually%20use.&descAlignY=58&descSize=17&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f3a,55:1f6feb,100:7c3aed&height=210&section=header&text=Hey%2C%20I'm%20Anish%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=I%20love%20problem%20solving%2C%20and%20turning%20the%20answers%20into%20AI%20people%20actually%20use.&descAlignY=58&descSize=17&animation=fadeIn" />
 </p>
 
 <h3 align="center">🧩 I love problem solving. Give me a messy, real-world problem and I'll build the system that makes it boring.</h3>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=36&lines=Agentic+AI+%C2%B7+Multi-Modal+Systems+%C2%B7+RL+for+LLMs;%232+in+India+out+of+39%2C000%2B+%E2%80%94+Samsung+Solve+for+Tomorrow;Teaching+small+models+to+think+on+ONE+GPU;Pepsi+India+runs+on+a+pipeline+I+built" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=36&lines=Agentic+AI+%C2%B7+Multi-Modal+Systems+%C2%B7+RL+for+LLMs;%232+in+India+out+of+39%2C000%2B+%C2%B7+Samsung+Solve+for+Tomorrow;Teaching+small+models+to+think+on+ONE+GPU;Pepsi+India+runs+on+a+pipeline+I+built" />
 </p>
 
 ---
@@ -104,23 +104,23 @@ That question has taken me to stroke-recovery monitoring, hiring fairness, banki
 
 ## 💼 Where I've worked
 
-**🧠 AI/ML Intern · CogNerd** · *2026 – Present*<br>
+**🧠 AI/ML Intern · CogNerd** · *2026 - Present*<br>
 I ship features in the production Python codebase, from requirements through review and release. Right now I'm building **Content Studio**, an LLM-assisted content generation and search-visibility feature, and tuning it against live client feedback.
 
-**🚀 Founder's Office Intern · Welzin AI** · *2025 – Present*<br>
+**🚀 Founder's Office Intern · Welzin AI** · *2025 - Present*<br>
 Tech and strategy support at an early-stage AI startup: competitor analysis of AI products, KPI tracking and process docs.
 
 <details>
 <summary><b>Earlier internships</b> (click to expand)</summary>
 <br>
 
-**📈 BD & Data Intern · HITGOC** · *Aug – Oct 2025*<br>
+**📈 BD & Data Intern · HITGOC** · *Aug - Oct 2025*<br>
 Built ML lead-quality scoring models and SQL-backed dashboards that told sales who to call first.
 
-**📊 Data Systems & BD Intern · Orygin AI** · *Jun – Aug 2025*<br>
+**📊 Data Systems & BD Intern · Orygin AI** · *Jun - Aug 2025*<br>
 Automated recurring reports and lead-funnel dashboards, cutting manual effort by **~70%**.
 
-**🤝 BD Intern · Glyptika Studios** · *Jan – Apr 2025*<br>
+**🤝 BD Intern · Glyptika Studios** · *Jan - Apr 2025*<br>
 Funnel analysis and client proposals. This is where I learned to sell what I build.
 
 </details>
@@ -179,8 +179,8 @@ Funnel analysis and client proposals. This is where I learned to sell what I bui
 
 ## 🎓 Education
 
-**Thapar Institute of Engineering & Technology**: B.Tech, Electronics & Communication Engineering · *2024 – 2028 (expected)*<br>
-**GMSSS Sector 46, Chandigarh**: Higher Secondary, Science · *2022 – 2024*
+**Thapar Institute of Engineering & Technology**: B.Tech, Electronics & Communication Engineering · *2024 - 2028 (expected)*<br>
+**GMSSS Sector 46, Chandigarh**: Higher Secondary, Science · *2022 - 2024*
 
 ---
 
