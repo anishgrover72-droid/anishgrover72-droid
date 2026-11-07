@@ -26,10 +26,10 @@ That question has taken me to stroke-recovery monitoring, hiring fairness, banki
 > I care less about the model and more about the system around it: the alerting logic, the sync layer, the edge case that breaks it at 2 AM.
 
 ```text
-🔭  Right now      →  Shipping LLM features in production @ CogNerd · running Grovell, my AI automation studio
-🌱  Learning       →  RL for reasoning (GRPO, RLVR, process rewards) · physics-constrained generative models
-💬  Ask me about   →  multi-agent systems · multimodal AI · building for Bharat · turning hours of work into minutes
-🤝  Open to        →  internships, research collaborations, hackathon teams, open source (GSoC-bound)
+🔭  Right now     →  shipping LLM features @ CogNerd · running Grovell
+🌱  Learning      →  RL for reasoning (GRPO, RLVR) · physics-constrained models
+💬  Ask me about  →  multi-agent systems · multimodal AI · building for Bharat
+🤝  Open to       →  internships · research · hackathon teams · open source
 ```
 
 ---
