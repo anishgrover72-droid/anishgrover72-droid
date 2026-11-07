@@ -28,7 +28,7 @@ My work spans **LLM fine-tuning with reinforcement learning (GRPO / RLVR)**, **m
 <table>
 <tr>
 <td align="center" width="20%"><h3>#2</h3><sub>in India · Samsung Solve for Tomorrow · 39,000+ entries</sub></td>
-<td align="center" width="20%"><h3>7</h3><sub>podiums & finals · India, UK, International</sub></td>
+<td align="center" width="20%"><h3>5</h3><sub>hackathon podiums · India, UK, International</sub></td>
 <td align="center" width="20%"><h3>5</h3><sub>internships before 3rd year</sub></td>
 <td align="center" width="20%"><h3>~40%</h3><sub>fewer reasoning tokens with AXIOM</sub></td>
 <td align="center" width="20%"><h3>48×</h3><sub>faster RFP processing with ProcurenAI</sub></td>
@@ -150,9 +150,8 @@ Machine-learning intrusion detection and response that flags hostile network tra
 | 🏆 **Winner** | Agentic AI Hackathon, University of Ulster | 🇬🇧 UK |
 | 🏆 **Winner** | BIOS Hackathon 2025 | 🎓 University |
 | 🥉 **3rd Place** | Cybersecurity Hackathon, University of Derby · *Citadel* | 🌍 International |
+| 🥉 **3rd Place** | Hackathon, University of Derby | 🌍 International |
 | 🏅 **Top 9 All India** | Case Competition, IIM Bangalore | 🇮🇳 National |
-| 🏅 **Finalist** | Producthon, IIT Roorkee | 🇮🇳 National |
-| 🏅 **Finalist** | Indo-Israel International Hackathon | 🌍 International |
 
 ---
 
