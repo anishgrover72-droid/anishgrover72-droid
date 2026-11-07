@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anishgrover72-droid&label=Profile+Views&color=1f6feb&style=flat-square" />
-  <a href="https://www.linkedin.com/in/anish-grover"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anish-grover-686741274/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:anishgrover72@gmail.com"><img src="https://img.shields.io/badge/Gmail-anishgrover72-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Status-Building-00C853?style=flat-square" />
 </p>
@@ -261,7 +261,7 @@ Open Source    →  Contributing to the AI tools I use every day · GSoC-bound.
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anish-grover"><img src="https://img.shields.io/badge/LinkedIn-Anish%20Grover-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anish-grover-686741274/"><img src="https://img.shields.io/badge/LinkedIn-Anish%20Grover-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:anishgrover72@gmail.com"><img src="https://img.shields.io/badge/Email-anishgrover72%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
